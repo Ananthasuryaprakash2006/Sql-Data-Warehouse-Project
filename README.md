@@ -36,7 +36,6 @@ This project involves:
 
 ## 🛠️ Important Links & Tools:
 
-## 🛠️ Tools & Resources
 
 The following free tools and resources were used to build this project:
 
