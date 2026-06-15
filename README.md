@@ -104,4 +104,28 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+🛡️ License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project with proper attribution.
+
 ---
+## 👨‍💻 About Me
+
+Hi, I'm **Anantha Surya Prakash Pullagura**, an aspiring **Data Engineer** passionate about building scalable data solutions and transforming raw data into actionable insights.
+
+I enjoy working with Data Warehousing, ETL pipelines, SQL development, and data modeling to support data-driven decision-making.
+
+### 🚀 Areas of Interest
+
+- Data Engineering
+- Data Warehousing
+- SQL Development
+- ETL Pipeline Design
+- Data Modeling
+- Business Intelligence & Analytics
+
+Feel free to explore this repository and connect with me for collaboration, learning, or feedback.
+
+🔗 **GitHub:** https://github.com/Ananthasuryaprakash2006
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/surya-prakash-pullagura-bb0a7b38b/
